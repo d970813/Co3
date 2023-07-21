@@ -1,0 +1,47 @@
+h1{
+color: crimson;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+color: crimson;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(65, 65, 255);
+}
+
+button{
+    color: blueviolet;
+    background-color: blue;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    size: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 3, 3);
+bottom: 0;
+width: 100%;
+background-color: rgb(255, 111, 0);
+line-height: 3;
+text-align: center;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: blueviolet;
+}
+
+
+#result{
+    box-shadow: 3px 3px red, -1em 0 .4em rgb(255, 132, 0);
+}
+
+img:hover{
+    border-radius: 140px;
+}
